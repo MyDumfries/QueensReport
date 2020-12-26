@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string-array name="squad">
+    <item>""</item>
+    <item>"McCrorie"</item>
+    <item>"Leighfield"</item>
+    <item>"Mercer"</item>
+    <item>"Brownlie"</item>
+    <item>"Kilday"</item>
+    <item>"Semple"</item>
+    <item>"Holt"</item>
+    <item>"Kidd"</item>
+    <item>"Murray"</item>
+    <item>"Pybus"</item>
+    <item>"Dobbie"</item>
+    <item>"Oliver"</item>
+    <item>"Hamilton"</item>
+    <item>"Own Goal"</item>
+    <item>"New Player"</item>
+</string-array>    
+</resources>
